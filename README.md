@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 I'm Facundo Galante
 
-<!--
-**facusg/facusg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently learning Application Development with Node and React
+- 🎓 Studying Systems engineering.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻  Javascript 
+
+🌐  Node | Express | React | HTML | CSS | Bootstrap
+
+🛢   MySQL | MongoDB | Xampp
+
+🔧  Visual Studio code | Git 
+
+🤝🏻 Connect with Me
+
+- [linkedin](https://www.linkedin.com/in/facundogalante)
+- <a href="mailto:facusgalante@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-facusgalante@gmail.com-blue?style=flat-square&logo=gmail"></a>
+
+
